@@ -1,7 +1,8 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
+
 * Студент: [Владислав Бирюков](https://up.htmlacademy.ru/javascript/18/user/1058989).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Прибитков](https://htmlacademy.ru/profile/id1061259).
 
 ---
 
@@ -48,5 +49,8 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript](https://htmlacademy.ru/intensive/javascript)», уровень 1 от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.com/htmlacademy-javascript/1058989-code-and-magick-18.svg?branch=master
-[travis-url]: https://travis-ci.com/htmlacademy-javascript/1058989-code-and-magick-18
+
+
+[travis-image]: https://travis-ci.com/htmlacademy-javascript/675873-code-and-magick-18.svg?branch=master
+[travis-url]: https://travis-ci.com/htmlacademy-javascript/675873-code-and-magick-18
+
